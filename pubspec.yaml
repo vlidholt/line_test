@@ -1,0 +1,7 @@
+name: line_test
+description: Create a new Flutter project.
+dependencies:
+  flutter:
+    path: ../flutter/packages/flutter
+  flutter_sprites:
+    path: ../flutter/packages/flutter_sprites
